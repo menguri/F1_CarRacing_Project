@@ -197,7 +197,7 @@ pytz==2024.1
 pyzmq==26.2.0
 referencing==0.35.1
 requests-cache==1.2.1
-requests==2.32.3
+requests==2.32.4
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==13.8.0

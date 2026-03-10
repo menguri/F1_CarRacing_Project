@@ -171,7 +171,7 @@ pandera==0.20.4
 pandocfilters==1.5.1
 parso==0.8.4
 pexpect==4.9.0
-pillow==10.4.0
+pillow==12.1.1
 pip==24.2
 platformdirs==3.10.0
 platformdirs==4.2.2
